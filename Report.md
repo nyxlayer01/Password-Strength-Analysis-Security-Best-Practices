@@ -21,8 +21,8 @@ The purpose of this task is to:
 |----------|----------------|--------------------------------|
 | abc123 | Very Weak | Very short, predictable, no uppercase, no symbols; easy to guess with brute force or dictionary attacks. |
 | password | Weak | Commonly used dictionary word, no numbers or symbols, predictable pattern. |
-| Abcdef12 | Moderate | Includes uppercase and lowercase letters with numbers; lacks symbols and could be longer. |
-| S@yMyN8meg | Strong | Good mix of characters including numbers and a symbol; slightly shorter than recommended maximum security length. |
+| Abcdef12 | Moderate | Includes uppercase and lowercase letters with numbers, lacks symbols and could be longer. |
+| S@yMyN8meg | Strong | Good mix of characters including numbers and a symbol, slightly shorter than recommended maximum security length. |
 | Sun&Leaf92!SkyDoor | Very Strong | Excellent length, varied character set, unpredictable structure; resistant to most password attacks. |
 
 ## Best Practices for Strong Passwords
